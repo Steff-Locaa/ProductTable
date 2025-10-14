@@ -1,4 +1,4 @@
 # ProductTable
 
-Building a searchable product data table with React.
+Building a basic searchable product table with React.
 
